@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-using-react/static/css/main.a0f4144d.css",
-    "main.js": "/Portfolio-using-react/static/js/main.f95d44b3.js",
-    "static/media/me-1.jpg": "/Portfolio-using-react/static/media/me-1.8978fc45c69a6acb1fa4.jpg",
+    "main.js": "/Portfolio-using-react/static/js/main.a062ffdb.js",
     "static/media/User.png": "/Portfolio-using-react/static/media/User.16d0fb539556316893f2.png",
-    "static/media/portfolio1.jpg": "/Portfolio-using-react/static/media/portfolio1.5b56b53f2838bce845fe.jpg",
+    "static/media/me-1.jpg": "/Portfolio-using-react/static/media/me-1.248a78dd4a51782d0ca3.jpg",
     "static/media/Resume-Md_FAIZAN_AHMAD.pdf": "/Portfolio-using-react/static/media/Resume-Md_FAIZAN_AHMAD.619ba863a8568de0dfc5.pdf",
     "static/media/portfolio3.jpg": "/Portfolio-using-react/static/media/portfolio3.61654dc7f64b063503df.jpg",
-    "static/media/portfolio2.jpg": "/Portfolio-using-react/static/media/portfolio2.b8bc95c7bcc763fa7ff8.jpg",
     "static/media/portfolio5.jpeg": "/Portfolio-using-react/static/media/portfolio5.4ad66d759d299d75c877.jpeg",
+    "static/media/portfolio1.jpg": "/Portfolio-using-react/static/media/portfolio1.4427ddf3f5d8675229e9.jpg",
     "static/media/portfolio4.jpg": "/Portfolio-using-react/static/media/portfolio4.c684a565f89ef5db056b.jpg",
     "static/media/portfolio6.jpg": "/Portfolio-using-react/static/media/portfolio6.51dfb872a4198ecc0e04.jpg",
+    "static/media/portfolio2.jpg": "/Portfolio-using-react/static/media/portfolio2.a70fbd696746c07ee209.jpg",
     "index.html": "/Portfolio-using-react/index.html",
     "main.a0f4144d.css.map": "/Portfolio-using-react/static/css/main.a0f4144d.css.map",
-    "main.f95d44b3.js.map": "/Portfolio-using-react/static/js/main.f95d44b3.js.map"
+    "main.a062ffdb.js.map": "/Portfolio-using-react/static/js/main.a062ffdb.js.map"
   },
   "entrypoints": [
     "static/css/main.a0f4144d.css",
-    "static/js/main.f95d44b3.js"
+    "static/js/main.a062ffdb.js"
   ]
 }
