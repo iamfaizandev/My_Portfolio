@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-using-react/static/css/main.376d2d83.css",
-    "main.js": "/Portfolio-using-react/static/js/main.9ac83468.js",
+    "main.css": "/Portfolio-using-react/static/css/main.2d62203a.css",
+    "main.js": "/Portfolio-using-react/static/js/main.9b375fc0.js",
     "static/media/User.png": "/Portfolio-using-react/static/media/User.16d0fb539556316893f2.png",
     "static/media/me-1.jpg": "/Portfolio-using-react/static/media/me-1.248a78dd4a51782d0ca3.jpg",
     "static/media/Resume-Md_FAIZAN_AHMAD.pdf": "/Portfolio-using-react/static/media/Resume-Md_FAIZAN_AHMAD.619ba863a8568de0dfc5.pdf",
@@ -12,11 +12,11 @@
     "static/media/portfolio6.jpg": "/Portfolio-using-react/static/media/portfolio6.51dfb872a4198ecc0e04.jpg",
     "static/media/portfolio2.jpg": "/Portfolio-using-react/static/media/portfolio2.a70fbd696746c07ee209.jpg",
     "index.html": "/Portfolio-using-react/index.html",
-    "main.376d2d83.css.map": "/Portfolio-using-react/static/css/main.376d2d83.css.map",
-    "main.9ac83468.js.map": "/Portfolio-using-react/static/js/main.9ac83468.js.map"
+    "main.2d62203a.css.map": "/Portfolio-using-react/static/css/main.2d62203a.css.map",
+    "main.9b375fc0.js.map": "/Portfolio-using-react/static/js/main.9b375fc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.376d2d83.css",
-    "static/js/main.9ac83468.js"
+    "static/css/main.2d62203a.css",
+    "static/js/main.9b375fc0.js"
   ]
 }
