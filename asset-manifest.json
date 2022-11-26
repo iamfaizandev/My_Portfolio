@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-using-react/static/css/main.446d8866.css",
-    "main.js": "/Portfolio-using-react/static/js/main.92c7964f.js",
+    "main.js": "/Portfolio-using-react/static/js/main.00605161.js",
     "static/media/me-1.jpg": "/Portfolio-using-react/static/media/me-1.248a78dd4a51782d0ca3.jpg",
     "static/media/Resume-Md_FAIZAN_AHMAD.pdf": "/Portfolio-using-react/static/media/Resume-Md_FAIZAN_AHMAD.619ba863a8568de0dfc5.pdf",
     "static/media/User.webp": "/Portfolio-using-react/static/media/User.fb85e5ab1e8fc7683271.webp",
-    "static/media/portfolio3.jpg": "/Portfolio-using-react/static/media/portfolio3.61654dc7f64b063503df.jpg",
-    "static/media/portfolio5.jpeg": "/Portfolio-using-react/static/media/portfolio5.4ad66d759d299d75c877.jpeg",
-    "static/media/portfolio1.jpg": "/Portfolio-using-react/static/media/portfolio1.4427ddf3f5d8675229e9.jpg",
-    "static/media/portfolio4.jpg": "/Portfolio-using-react/static/media/portfolio4.c684a565f89ef5db056b.jpg",
-    "static/media/portfolio6.jpg": "/Portfolio-using-react/static/media/portfolio6.51dfb872a4198ecc0e04.jpg",
-    "static/media/portfolio2.jpg": "/Portfolio-using-react/static/media/portfolio2.a70fbd696746c07ee209.jpg",
+    "static/media/portfolio3.webp": "/Portfolio-using-react/static/media/portfolio3.bdd045cb54983d50a695.webp",
+    "static/media/portfolio5.webp": "/Portfolio-using-react/static/media/portfolio5.a999f06a4c8de8a33049.webp",
+    "static/media/portfolio6.webp": "/Portfolio-using-react/static/media/portfolio6.befe4fe5c6d22178753e.webp",
+    "static/media/portfolio1.webp": "/Portfolio-using-react/static/media/portfolio1.9c30d854562c68016360.webp",
+    "static/media/portfolio4.webp": "/Portfolio-using-react/static/media/portfolio4.53cbe83f4df406375fbf.webp",
+    "static/media/portfolio2.webp": "/Portfolio-using-react/static/media/portfolio2.2e18ab3dcc6084942fcb.webp",
     "index.html": "/Portfolio-using-react/index.html",
     "main.446d8866.css.map": "/Portfolio-using-react/static/css/main.446d8866.css.map",
-    "main.92c7964f.js.map": "/Portfolio-using-react/static/js/main.92c7964f.js.map"
+    "main.00605161.js.map": "/Portfolio-using-react/static/js/main.00605161.js.map"
   },
   "entrypoints": [
     "static/css/main.446d8866.css",
-    "static/js/main.92c7964f.js"
+    "static/js/main.00605161.js"
   ]
 }
