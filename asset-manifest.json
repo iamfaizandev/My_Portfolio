@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.1860087b.css",
-    "main.js": "/My_Portfolio/static/js/main.9786811d.js",
+    "main.js": "/My_Portfolio/static/js/main.af0cfde1.js",
     "static/media/Nav_Bg.gif": "/My_Portfolio/static/media/Nav_Bg.85a63fe345782d77060a.gif",
-    "static/media/Resume-Md_FAIZAN_AHMAD.pdf": "/My_Portfolio/static/media/Resume-Md_FAIZAN_AHMAD.26f1b5893765b52e3950.pdf",
+    "static/media/User_2-.png": "/My_Portfolio/static/media/User_2-.e0cf684d7ce219f6015a.png",
     "static/media/User.webp": "/My_Portfolio/static/media/User.fb85e5ab1e8fc7683271.webp",
+    "static/media/Resume-Md_FAIZAN_AHMAD.pdf": "/My_Portfolio/static/media/Resume-Md_FAIZAN_AHMAD.83e592793182935615ed.pdf",
     "static/media/portfolio3.webp": "/My_Portfolio/static/media/portfolio3.bdd045cb54983d50a695.webp",
     "static/media/portfolio5.webp": "/My_Portfolio/static/media/portfolio5.a999f06a4c8de8a33049.webp",
     "static/media/portfolio6.webp": "/My_Portfolio/static/media/portfolio6.befe4fe5c6d22178753e.webp",
@@ -13,10 +14,10 @@
     "static/media/portfolio2.webp": "/My_Portfolio/static/media/portfolio2.2e18ab3dcc6084942fcb.webp",
     "index.html": "/My_Portfolio/index.html",
     "main.1860087b.css.map": "/My_Portfolio/static/css/main.1860087b.css.map",
-    "main.9786811d.js.map": "/My_Portfolio/static/js/main.9786811d.js.map"
+    "main.af0cfde1.js.map": "/My_Portfolio/static/js/main.af0cfde1.js.map"
   },
   "entrypoints": [
     "static/css/main.1860087b.css",
-    "static/js/main.9786811d.js"
+    "static/js/main.af0cfde1.js"
   ]
 }
