@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.8b61a28e.css",
+    "main.js": "/My_Portfolio/static/js/main.d5b86c04.js",
+    "static/media/User_3.jpg": "/My_Portfolio/static/media/User_3.d9e06e6339633f3369eb.jpg",
+    "static/media/Resume__Md Faizan Ahmad.pdf": "/My_Portfolio/static/media/Resume__Md Faizan Ahmad.0b181683fe28d37c18e3.pdf",
+    "static/media/Code_Person-img.png": "/My_Portfolio/static/media/Code_Person-img.e584a74da5d51efcb460.png",
+    "static/media/portfolio3.jpg": "/My_Portfolio/static/media/portfolio3.08bf1bb89de1cb0b7ee9.jpg",
+    "static/media/portfolio5.webp": "/My_Portfolio/static/media/portfolio5.a999f06a4c8de8a33049.webp",
+    "static/media/portfolio6.webp": "/My_Portfolio/static/media/portfolio6.befe4fe5c6d22178753e.webp",
+    "static/media/portfolio4.webp": "/My_Portfolio/static/media/portfolio4.53cbe83f4df406375fbf.webp",
+    "static/media/portfolio2.webp": "/My_Portfolio/static/media/portfolio2.2e18ab3dcc6084942fcb.webp",
+    "index.html": "/My_Portfolio/index.html",
+    "main.8b61a28e.css.map": "/My_Portfolio/static/css/main.8b61a28e.css.map",
+    "main.d5b86c04.js.map": "/My_Portfolio/static/js/main.d5b86c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b61a28e.css",
+    "static/js/main.d5b86c04.js"
+  ]
+}
